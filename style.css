@@ -1,0 +1,23 @@
+*{
+    background-color: rgb(36, 159, 212);
+    }
+  .nav{
+    height: 20vh;
+    width: 100%;
+    background-color: rgb(140, 205, 238);
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  .nav ul li a{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    height: 20vh;
+    width: 100%;
+    color: #000;
+    list-style-type: none;
+    text-decoration: none;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+  }
+  
